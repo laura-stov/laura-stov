@@ -13,10 +13,9 @@ Abaixo estarão algumas das linguagens e tecnologias que eu já utilizei.
 
 ## Linguagens
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
 ## Frameworks
 
-    <i class="devicon-django-plain-wordmark"></i>
-    <i class="devicon-dotnetcore-plain colored"></i>
+<i class="devicon-django-plain-wordmark"></i>
+<i class="devicon-dotnetcore-plain colored"></i>
