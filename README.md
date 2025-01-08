@@ -13,9 +13,10 @@ Abaixo estarão algumas das linguagens e tecnologias que eu já utilizei.
 
 ## Linguagens
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=40 height=40/>
 
-## Frameworks
+## Tecnologias
 
-<i class="devicon-django-plain-wordmark"></i>
-<i class="devicon-dotnetcore-plain colored"></i>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width=40 height=40/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width=40 height=40/>
+          
