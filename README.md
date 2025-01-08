@@ -1,5 +1,5 @@
-## Olá, me chamo Laura Santos Oliveira! 👋
-# Seja bem-vindo ao meu perfil GitHub. 
+# Olá, me chamo Laura Santos Oliveira! 👋
+## Seja bem-vindo ao meu perfil GitHub. 
 
 - 🔭 Atualmente estou em busca de um estágio.
 - 🌱 Estou sempre aprendendo de tudo um pouco, tanto front-end quanto back-end.
