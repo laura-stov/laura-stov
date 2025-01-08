@@ -10,9 +10,9 @@
 - ⚡ Fato Curioso: me aventurei em Engenharia da Computação por um acaso, minha primeira intenção era me formar em Psicologia, mas o TI me conquistou primeiro.
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura-stov&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=laura-stov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/laura-stov">
+<img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api?username=laura-stov&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura-stov&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ## Tecnologias
