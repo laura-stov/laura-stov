@@ -13,8 +13,6 @@
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura-stov&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=laura-stov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-![Snake animation](https://github.com/laura-stov/laura-stov/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## Tecnologias
@@ -49,3 +47,5 @@
   <a href = "mailto:laura.stov04@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laura-oliveira-869024288" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+![Snake animation](https://github.com/laura-stov/laura-stov/blob/output/github-contribution-grid-snake.svg)
