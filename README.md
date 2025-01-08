@@ -3,10 +3,9 @@
 
 - 🔭 Atualmente estou em busca de um estágio.
 - 🌱 Estou sempre aprendendo de tudo um pouco, tanto front-end quanto back-end.
-- 👯 Busco colaboração com qualquer um que seja visionário, dedicado e que queira fazer o mundo mais aceitável. 
+- 👯 Busco colaboração com qualquer um que seja visionário, dedicado e que queira fazer o mundo um lugar mais tolerável. 
 - 🤔 Qualquer ajuda é bem-vinda! Tem sugestões sobre como melhorar um código? É só me falar.
 - 💬 Está com dúvidas? Me mande um e-mail ou me chame no LinkedIn.
-- 😄 Pronomes: Ela/Dela
 - ⚡ Fato Curioso: me aventurei em Engenharia da Computação por um acaso, minha primeira intenção era me formar em Psicologia, mas o TI me conquistou primeiro.
 
 <div>
