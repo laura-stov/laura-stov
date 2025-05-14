@@ -18,7 +18,6 @@
 
 <div style="display: inline_block">
   <img loading="lazy" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width=40 height=40/>
-  <img loading="lazy" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" width=40 height=40/>
   <img loading="lazy" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width=40 height=40/>
   <img loading="lazy" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=40 height=40/>
   <img loading="lazy" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=40 height=40/>
