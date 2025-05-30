@@ -7,12 +7,12 @@
 - 🤔 Qualquer ajuda é bem-vinda! Tem sugestões sobre como melhorar um código? É só me falar.
 - 💬 Está com dúvidas? Me mande um e-mail ou me chame no LinkedIn.
 - ⚡ Fato Curioso: me aventurei em Engenharia da Computação por um acaso, minha primeira intenção era me formar em Psicologia, mas o TI me conquistou primeiro.
+<br>
 
-<div>
-<a href="https://github.com/laura-stov">
-<img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api?username=laura-stov&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura-stov&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laura-stov&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura-stov&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="200" />
+</p>
 
 ## Tecnologias
 
@@ -45,5 +45,3 @@
   <a href = "mailto:laura.stov04@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laura-oliveira-869024288" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-![Snake animation](https://github.com/laura-stov/laura-stov/blob/output/github-contribution-grid-snake.svg)
