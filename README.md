@@ -1,7 +1,7 @@
 # Olá, me chamo Laura Santos Oliveira! 👋
 ## Seja bem-vindo ao meu perfil GitHub. 
 
-- 🔭 Atualmente estou trabalhando na Bluelephant com automações e inteligência artificial para otimização de processos.
+- 🔭 Atualmente me aventurando em automações e inteligência artificial para otimização de processos.
 - 🌱 Estou sempre aprendendo de tudo um pouco, tanto front-end quanto back-end.
 - 👯 Busco colaboração com qualquer um que seja visionário, dedicado e que queira fazer o mundo um lugar mais tolerável. 
 - 🤔 Qualquer ajuda é bem-vinda! Tem sugestões sobre como melhorar um código? É só me falar.
