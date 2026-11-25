@@ -1,7 +1,7 @@
 # Olá, me chamo Laura Santos Oliveira! 👋
 ## Seja bem-vindo ao meu perfil GitHub. 
 
-- 🔭 Atualmente cursando Ciência da Computação na Universidade Positivo e desenvolvendo projetos na Orion Duo.
+- 🔭 Atualmente cursando Ciência da Computação na Universidade Positivo e desenvolvendo para a Mauer Pneus.
 - 💡 Foco em automações, inteligência artificial e engenharia/análise de dados.
 - 🌱 Sempre explorando novas ferramentas para otimização de processos e desenvolvimento de software.
 - 👯 Busco colaboração com quem é visionário, dedicado e quer fazer a diferença. 
